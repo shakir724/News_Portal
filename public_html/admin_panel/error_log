@@ -1,0 +1,5 @@
+[29-Jan-2021 07:54:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vapynews/public_html/admin_panel/district-by-city.php on line 9
+[29-Jan-2021 07:55:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vapynews/public_html/admin_panel/district-by-city.php on line 9
+[29-Jan-2021 07:55:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vapynews/public_html/admin_panel/district-by-city.php on line 9
+[29-Jan-2021 07:58:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vapynews/public_html/admin_panel/district-by-city.php on line 9
+[29-Jan-2021 08:03:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/vapynews/public_html/admin_panel/district-by-city.php on line 9
